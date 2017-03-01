@@ -1,0 +1,4 @@
+/* New UI Updated CSS */
+
+/* Chrome fix tiny scrollbar in  Grades */
+-webkit-scrollbar{-webkit-appearance:none;width: 1.5em;height:1.5em;}
